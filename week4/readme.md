@@ -1,0 +1,1 @@
+The week4 submissions consists of Assignment 5,having analysis documentation and implementation of Quicksort and Randomized sort along with phase2 project deliverable.Phase2 folder has two python files which is Trie.py and demo.py.Trie class is imported in demo.py file so to execute the demo.py please use both the files.
