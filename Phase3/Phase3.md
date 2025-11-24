@@ -1,0 +1,2 @@
+Project phase3 code implementation has the optimized code changes of the code snippets implemented in Phase2(Proof of concept) discussion. The code handles serveral edge cases like  large string inputs, finding actual words when given wrong words for searching, handling emptystrings and more.
+* Regarding the code execution it is executed on macos.
