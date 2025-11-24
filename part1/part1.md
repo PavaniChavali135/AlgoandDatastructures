@@ -1,0 +1,1 @@
+Part1 of week5 consists of code implemenations for Randomized select and Median of modes algorithms to find the smallest kth element along with their performance analysis.The code is executed in visual stuido code and is supported on both mac and windows.
