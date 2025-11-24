@@ -1,0 +1,1 @@
+Part2 of week5 consists of Implementations of datastructres like Arrays, Linkedlist,stack and Queues along withe performance analysis.The code is executed in visual stuido code and is supported on both mac and windows.
